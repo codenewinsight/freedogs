@@ -1,9 +1,9 @@
 **Share Moonbix Auto Tool Using Python (With and Without Proxy)**
 
-# Join Telegram: https://t.me/scriptsharing
-# FreeDogs link: https://t.me/theFreeDogs_bot/app?startapp=ref_KU5gXBbC
+**Join Telegram: [Click Here](https://t.me/scriptsharing)**
+**FreeDogs link: [Click Here](https://t.me/theFreeDogs_bot/app?startapp=ref_KU5gXBbC)**
 
-# Github link: https://github.com/codenewinsight/Moonbix
+**Github link: [Click Here](https://github.com/codenewinsight/freedogs/)**
 
 ✔️ Auto-play game
 ✔️ Support Multi Account
@@ -31,4 +31,4 @@ F12 > Start Bot > Network Tab > Name Column chose line "telegram-auth?invitation
 ![querydata](https://github.com/user-attachments/assets/2a4913e0-2573-47e6-8d8c-925961ac96b5)
 
 
-# Join Telegram: https://t.me/scriptsharing
+**Join Telegram: [Click Here](https://t.me/scriptsharing)**
