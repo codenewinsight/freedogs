@@ -1,15 +1,18 @@
 **Share Moonbix Auto Tool Using Python (With and Without Proxy)**
 
 **Join Telegram: [Click Here](https://t.me/scriptsharing)**
+
 **FreeDogs link: [Click Here](https://t.me/theFreeDogs_bot/app?startapp=ref_KU5gXBbC)**
 
 **Github link: [Click Here](https://github.com/codenewinsight/freedogs/)**
 
-✔️ Auto-play game
-✔️ Support Multi Account
-✔️ Support Proxy
-✔️ Auto-task
+- Auto-play game
 
+- Support Multi Account
+
+- Support Proxy
+
+- Auto-task
 
 **Instructions:**
 
