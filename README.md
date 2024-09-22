@@ -1,4 +1,4 @@
-**Share Moonbix Auto Tool Using Python (With and Without Proxy)**
+**Share FREEDOGS Auto Tool Using Python (With and Without Proxy)**
 
 **Join Telegram: [Click Here](https://t.me/scriptsharing)**
 
