@@ -24,7 +24,7 @@ For those using multiple accounts, it’s recommended to use a proxy
 (if using only one account, you don’t need to create the `proxy.txt` file).
 
 **Proxy format:**  
-`http://user:pass@ip:port`
+`user:pass@ip:port`
 
 **Proxy format:**  
 `query_id%3D......`
